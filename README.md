@@ -13,6 +13,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 Minhas redes sociais e meios de comunicação:
 
 <div>
-<a href = "mailto:hydr.joaoanhaia5@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href = "https://mail.google.com/mail/u/0/?hl=pt-BR#inbox"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
